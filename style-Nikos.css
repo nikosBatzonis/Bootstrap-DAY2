@@ -1,0 +1,18 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  margin: 0 auto;
+}
+
+p {
+  margin-top: 80px;
+}
+
+.one {
+  margin: 80px;
+}
+/*# sourceMappingURL=style-Nikos.css.map */
